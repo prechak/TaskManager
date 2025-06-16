@@ -1,0 +1,4 @@
+com/taskmanager/model/Task.class
+com/taskmanager/controller/TaskServlet.class
+com/taskmanager/util/DatabaseUtil.class
+com/taskmanager/dao/TaskDAO.class
